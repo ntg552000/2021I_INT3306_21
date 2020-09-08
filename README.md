@@ -1,1 +1,3 @@
-# 2021I_INT3306_21
+"This repository is belong to <your name>.
+Under the collaboration of: 
+< list of your collaborators> "
